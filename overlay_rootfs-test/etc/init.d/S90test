@@ -1,5 +1,0 @@
-#!/bin/sh
-
-sh /root/init.sh
-
-exit 0
